@@ -18,7 +18,7 @@ config-version: 2
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
 name: 'dbt_semantic_view'
-version: '1.0.1'
+version: '1.0.7'
 require-dbt-version: [">=1.0.0", "<3.0.0"]
 
 # This setting configures which "profile" dbt uses for this project.
